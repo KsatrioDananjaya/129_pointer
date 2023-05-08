@@ -33,5 +33,6 @@ void orang::setNama(string pNama) {
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    orang o;
+    o.setNama("Joko Kumat");
 }
