@@ -22,5 +22,10 @@ void manusia::showNilaiPelajar(pelajar& x) {
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    manusia m;
+    pelajar p;
+    m.showNilaiPelajar(p);
+    cout << endl;
+    system("\npause");
+    return 0;
 }
