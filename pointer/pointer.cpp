@@ -7,6 +7,11 @@ public:
     void showNim();
 };
 
+void mahasiswa::showNim() {
+
+}
+
+
 int main()
 {
 
